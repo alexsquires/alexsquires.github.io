@@ -5,4 +5,4 @@ I'm a Ph.D. candidate in the department of chemistry at the university of Bath. 
 Also included will be my usage of code (primarially Python) in the hopes that on exposing it to the world, it will encourage me to follow better practice and develop my skills
 
 
-[CV](https://github.com/alexsquires/alexsquires.github.io/blob/master/Academic%20CV.pdf)
+[CV](Acadmic\ CV) 
