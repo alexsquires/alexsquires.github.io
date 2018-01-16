@@ -4,5 +4,5 @@ I'm a Ph.D. candidate in the department of chemistry at the university of Bath. 
 
 Also included will be my usage of code (primarially Python) in the hopes that on exposing it to the world, it will encourage me to follow better practice and develop my skills
 
-[CV](academic_cv.pdf). 
-[Conference Talks/Posters](conferences.md). 
+[CV](academic_cv.pdf).  
+[Conference Talks/Posters](conferences.md).   
