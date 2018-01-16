@@ -1,3 +1,7 @@
+## In Defence of my Project: to a friend/family member (1)
+
+**16/1/2018**
+
 I am often asked what it is that I do. I quickly then try and steer the conversation to a close by saying that I'm a Ph.D. student researching battery materials. What I would love would be an explanation that I could direct errant family members and friends to explaining exactly what that means. 
 
 I'm not enough of a sociopath to actually cite this blog post when in conversation, but thought that it would be a good exercise to attempt to explain my work in an interesting, succinct, and accessible manner.
