@@ -6,3 +6,4 @@ Also included will be my usage of code (primarially Python) in the hopes that on
 
 
 [CV](academic_cv.pdf) 
+[Conference Talks/Posters]
