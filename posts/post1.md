@@ -1,4 +1,6 @@
-## In Defence of my Project: to a friend/family member (1)
+## In Defence of my Project: to friends and family
+
+**Post 1**
 
 **16/1/2018**
 
