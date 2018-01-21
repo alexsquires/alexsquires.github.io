@@ -1,5 +1,9 @@
 ## Anionic Redox in Cathode materials
 
+**Post 2**
+
+**21/1/2018**
+
 Beyond the solid state electrolytes that I mentioned, the other key component of a battery that stands to make gains in its component materials is the cathode. I'd like to split this discussion in to two parts; first, an accessible discussion around these materials, followed by a much less accessible discussion of the science behind some of the new direction in the field. 
 
 ### Battery Cathodes
