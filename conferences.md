@@ -1,7 +1,7 @@
 
 ## Presentations
 
-**1. 27/4/18** [6 Month Progress Report](6mnth_pres.slides.html)
+**1. 27/4/18** [6 Month Progress Report](index.slides.html)
 
 
 ## Conference Attendance
