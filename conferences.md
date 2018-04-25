@@ -1,7 +1,7 @@
 
 ## Presentations
 
-**1. 27/4/18** [6 Month Progress Report](index.html)
+**1. 27/4/18** [6 Month Progress Report](https://alexsquires.github.io/presentations/#/)
 
 
 ## Conference Attendance
