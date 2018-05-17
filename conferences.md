@@ -13,3 +13,7 @@ A. G. Squires, A. Walker, and B. J. Morgan
 **2.** **3/5/18** - Speaking of Science (Cardiff)  
 A. G. Squires, A. Walker, and B. J. Morgan  
 [Poster](assets/asquires_SoS.pdf):  Modelling Defects in Battery Materials
+
+**3.** **14/6/18** - Bolland Symposium (Bath)
+A. G. Squires, A. Walker, and B. J. Morgan
+[Poster](assets/asquires_BolSym.pdf):  Modelling Defects in Battery Materials
