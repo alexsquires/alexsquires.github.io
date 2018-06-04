@@ -14,7 +14,7 @@ A. G. Squires, A. Walker, and B. J. Morgan
 A. G. Squires, A. Walker, and B. J. Morgan  
 [Poster](assets/asquires_SoS.pdf):  Modelling Defects in Battery Materials
 
-**3.** **6/6/18** - Bolland Symposium (Bath)  
+**3.** **6/6/18** - HPC Symposium (Bath)  
 A. G. Squires, A. Walker, and B. J. Morgan  
 [Poster](assets/asquires_BolSym.pdf):  Modelling Defects in Battery Materials
 
