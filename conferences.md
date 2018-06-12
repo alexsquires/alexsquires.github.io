@@ -24,4 +24,4 @@ A. G. Squires, A. Walker, and B. J. Morgan
 
 **5.** **18/6/18** - EMRS (Strasbourg)  
 A. G. Squires, A. Walker, and B. J. Morgan  
-Poster(assets/alex_emrs.pdf):  Computational Modelling of Point Defects in Lithium Garnets
+[Poster](assets/alex_emrs.pdf):  Computational Modelling of Point Defects in Lithium Garnets
