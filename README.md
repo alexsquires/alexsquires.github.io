@@ -1,3 +1,3 @@
 # alexsquires.github.io
 
-Personal page for Alex Squires, containing writing practice, thoughts and eventually some code. 
+Personal page for Alex Squires, Ph.D. student, University of Bath
